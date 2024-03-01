@@ -1,5 +1,5 @@
 
-# CPrompt
+# Consistent Prompting for Rehearsal-Free Continual Learning
 
 This repo contains the official code of the project "Consistent Prompting for Rehearsal-Free Continual Learning" (CVPR2024).
 Paper link.
