@@ -4,7 +4,7 @@
 This repo contains the official code of the project "Consistent Prompting for Rehearsal-Free Continual Learning" (CVPR2024).
 Paper link.
 
-![The proposed consistent prompting](https://github.com/Zhanxin-Gao/CPrompt/blob/main/CPrompt_Illustration.png)
+![The proposed consistent prompting](https://github.com/Zhanxin-Gao/CPrompt/blob/main/thirdpic_1118.pdf)
 
 ## 1.Dependent Packages and Platform
 
