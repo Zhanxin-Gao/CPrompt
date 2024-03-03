@@ -45,6 +45,7 @@ We have implemented the pre-processing of `Split StanfordCars `, `Split ImageNet
         rootdir = "[DATA-PATH]"
 ```
 
+- CIFAR-100: Automatically download
 - StanfordCars: retrieve from: [https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset?resource=download](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset?resource=download)
 - ImageNet-R: retrieve from: [https://github.com/hendrycks/imagenet-r](https://github.com/hendrycks/imagenet-r)
 - DomainNet: retrieve from: [http://ai.bu.edu/M3SDA/](http://ai.bu.edu/M3SDA/)
@@ -60,25 +61,25 @@ Due to the limitation of the supplementary material size, we only upload the res
     ``` -->
 
 <!-- `To run the training code:` -->
-- Train Split StanfordCars
+- Split CIFAR-100
+
+    ```
+    python main.py --config=./exps/cifar100_vit.json
+    ```
+    
+- Split StanfordCars
 
     ```
     python main.py --config=./exps/stanfordcars.json
     ```
 
-- Train Split ImageNet-R
+- Split ImageNet-R
 
     ```
     python main.py --config=./exps/imagenetr.json
     ```
 
-- Train Split CIFAR-100
-
-    ```
-    python main.py --config=./exps/cifar100_vit.json
-    ```
-
-- Train Split DomainNet
+- Split DomainNet
 
     ```
     python main.py --config=./exps/domainnet.json
