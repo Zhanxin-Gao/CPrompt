@@ -1,7 +1,12 @@
 
 # Consistent Prompting for Rehearsal-Free Continual Learning
+<!-- Zhanxin Gao, Jun Cen, Xiaobin Chang -->
+PyTorch code for the CVPR 2024 paper:
 
-This repo contains the official code of the project "Consistent Prompting for Rehearsal-Free Continual Learning" (CVPR2024).
+__Consistent Prompting for Rehearsal-Free Continual Learning__
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+<!-- This repo contains the official code of the CPrompt (CVPR2024). -->
 Paper link.
 
 ![The proposed consistent prompting](https://github.com/Zhanxin-Gao/CPrompt/blob/main/CPrompt_Illustration.jpg)
@@ -105,7 +110,10 @@ If you find this code useful, please kindly cite the following paper:
 @article{,
   title={Consistent Prompting for Rehearsal-Free Continual Learning},
   author={Zhanxin Gao, Jun CEN, Xiaobin Chang},
-  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition(CVPR)},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
 ```
+
+## 5.Reference
+This code is built on [PyCIL](https://github.com/G-U-N/PyCIL).

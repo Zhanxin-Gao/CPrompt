@@ -1,0 +1,11 @@
+name: CPrompt
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8.12
+  - pip
+  - pip:
+      - --find-links https://download.pytorch.org/whl/torch_stable.html
+      - --requirement requirements.txt

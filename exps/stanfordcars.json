@@ -1,0 +1,16 @@
+{
+    "model_name":"CPrompt",
+    "dataset": "stanfordcars",
+    "epochs": 120,
+    "shuffle":true,
+    "init_cls": 20,
+    "increment": 20,
+    "lr":1e-2,
+    "weight_decay":5e-4,
+    "tau": 1.15,
+    "margin":0.1,
+    "alpha":1.0,
+    "batch_size":16,
+    "device": ["0"],
+    "seed": [1993,87,1013]
+}
