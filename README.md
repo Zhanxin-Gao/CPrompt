@@ -1,7 +1,9 @@
 
-# Consistent Prompting for Rehearsal-Free Continual Learning
+# Consistent Prompting for Rehearsal-Free Continual Learning (CVPR2024)
 <!-- Zhanxin Gao, Jun Cen, Xiaobin Chang -->
-Official code for the CVPR 2024 paper: __Consistent Prompting for Rehearsal-Free Continual Learning__ Paper link.
+Official code for the our paper: __Consistent Prompting for Rehearsal-Free Continual Learning (CPrompt)__.
+
+Paper link: [https://arxiv.org/pdf/2403.08568v1.pdf](https://arxiv.org/pdf/2403.08568v1.pdf)
 <!-- This repo contains the official code of the CPrompt (CVPR2024). -->
 
 ![The proposed consistent prompting](https://github.com/Zhanxin-Gao/CPrompt/blob/main/CPrompt_Illustration.jpg)
