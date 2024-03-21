@@ -3,7 +3,7 @@
 <!-- Zhanxin Gao, Jun Cen, Xiaobin Chang -->
 Official code for the our paper: __Consistent Prompting for Rehearsal-Free Continual Learning (CPrompt)__.
 
-Paper link: [https://arxiv.org/abs/2403.08568v1](https://arxiv.org/abs/2403.08568v1)
+Paper link: [https://arxiv.org/abs/2403.08568](https://arxiv.org/abs/2403.08568)
 <!-- This repo contains the official code of the CPrompt (CVPR2024). -->
 
 ![The proposed consistent prompting](https://github.com/Zhanxin-Gao/CPrompt/blob/main/CPrompt_Illustration.jpg)
