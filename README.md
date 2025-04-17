@@ -48,7 +48,7 @@ We have implemented the pre-processing of `Split StanfordCars `, `Split ImageNet
 ```
 
 - CIFAR-100: automatically download
-- StanfordCars: retrieve from: [https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset?resource=download](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset?resource=download)
+- StanfordCars: [dataset](https://drive.google.com/file/d/1p3ZJ83gMyAqBzgPe27XIeftNnZwo5XH6/view?usp=drive_link)
 - ImageNet-R: retrieve from: [https://github.com/hendrycks/imagenet-r](https://github.com/hendrycks/imagenet-r)
 - DomainNet: retrieve from: [http://ai.bu.edu/M3SDA/](http://ai.bu.edu/M3SDA/)
 ## 3.Run
