@@ -105,10 +105,11 @@ If you use other versions of pytorch, it will get a different result. -->
 If you find this code useful, please kindly cite the following paper:
 
 ```
-@article{,
-  title={Consistent Prompting for Rehearsal-Free Continual Learning},
-  author={Zhanxin Gao, Jun CEN, Xiaobin Chang},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+@inproceedings{gao2024consistent,
+  title={Consistent prompting for rehearsal-free continual learning},
+  author={Gao, Zhanxin and Cen, Jun and Chang, Xiaobin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={28463--28473},
   year={2024}
 }
 ```
